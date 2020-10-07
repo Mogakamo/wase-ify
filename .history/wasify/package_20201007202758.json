@@ -34,3 +34,11 @@
     ]
   }
 }
+{
+  "name": "my-flow-project",
+  "version": "1.0.0",
+  "devDependencies": {
+    
+  },
+  
+}
