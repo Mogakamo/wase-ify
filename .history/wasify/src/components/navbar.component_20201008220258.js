@@ -7,11 +7,7 @@ export default class Navbar extends Component {
             <nav className="navbar navbar-dark bg-dark navbar-expand-lg">
                 <Link to="/" className="navbar-brand">Home</Link>
                 <div className="collapse navbar-collapse">
-                    <ul className="navbar-nav mr-auto">
-                        <li className="navbar-item">
-                        
-                        </li>
-                    </ul>
+                    <ul clad
                 </div>
             </nav>
         )
