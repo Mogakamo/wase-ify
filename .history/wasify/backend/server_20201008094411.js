@@ -1,0 +1,1 @@
+const deName = require('packageName');
