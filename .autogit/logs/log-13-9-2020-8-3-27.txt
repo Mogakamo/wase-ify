@@ -1,0 +1,48 @@
+-------------------- Auto-Git Log --------------------
+		Tue Oct 13 2020 08:03:27 GMT+0300 (East Africa Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .history/wasify/backend/package_20201013071929.json
+* .history/wasify/backend/package_20201013071932.json
+* .history/wasify/backend/package_20201013071933.json
+* .history/wasify/backend/package_20201013071934.json
+* .history/wasify/backend/package_20201013071959.json
+* .history/wasify/backend/package_20201013072000.json
+* .history/wasify/backend/package_20201013072001.json
+* .history/wasify/backend/package_20201013072002.json
+* .history/wasify/backend/package_20201013072005.json
+* .history/wasify/backend/package_20201013072006.json
+* .history/wasify/backend/package_20201013072007.json
+* .history/wasify/backend/package_20201013072015.json
+* .history/wasify/backend/package_20201013072016.json
+* .history/wasify/backend/package_20201013072017.json
+* .history/wasify/backend/package_20201013072018.json
+* .history/wasify/backend/package_20201013072028.json
+* .history/wasify/backend/package_20201013072029.json
+* .history/wasify/backend/package_20201013072030.json
+* .history/wasify/backend/package_20201013072031.json
+* .history/wasify/backend/package_20201013072032.json
+* .history/wasify/backend/package_20201013072033.json
+* .history/wasify/backend/package_20201013072034.json
+* .history/wasify/backend/package_20201013072037.json
+* .history/wasify/backend/package_20201013072042.json
+* .history/wasify/backend/package_20201013072043.json
+* .history/wasify/backend/package_20201013072045.json
+* .history/wasify/backend/package_20201013072046.json
+* .history/wasify/backend/package_20201013072049.json
+* .history/wasify/backend/package_20201013072051.json
+* .history/wasify/backend/package_20201013072052.json
+* .history/wasify/backend/package_20201013072053.json
+* .history/wasify/backend/package_20201013072054.json
+* .history/wasify/backend/package_20201013072133.json
+* .history/wasify/backend/package_20201013072135.json
+
+
+Deleted files:
+
+
+Renamed files:
