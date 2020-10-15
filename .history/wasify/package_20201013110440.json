@@ -1,9 +1,12 @@
 {
   "name": "wasify",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "private": true,
   "dependencies": {
-     "history": "^4.10.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -12,7 +15,8 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
     "redux": "^4.0.5",
-     "redux-logger": "^3.0.6",
+    "history": "^4.10.0",
+    "redux-logger": "^4.0.4",
     "redux-thunk": "^2.3.0"
   },
    "devDependencies": {
@@ -25,13 +29,15 @@
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
     "webpack-dev-server": "^3.2.1"
-   },  
-   "scripts": {
-    "start": "react-scripts start",
+   },
+  "scripts": {
+
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "flow": "flow"
+    "flow": "flow",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open"
   },
   "eslintConfig": {
     "extends": "react-app"
