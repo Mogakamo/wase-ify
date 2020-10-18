@@ -3,7 +3,7 @@ HOST: https://polls.apiblueprint.org/
 
 # wasify
 
-Polls is a simple API allowing consumers to view polls and vote in them.
+This is an API that will be able to handle request to and from the database.
 
 ## Questions Collection [/questions]
 
@@ -33,22 +33,18 @@ Polls is a simple API allowing consumers to view polls and vote in them.
             }
         ]
 
-### Create a New Question [POST]
+### Create a New User [POST]
 
-You may create your own question using this action. It takes a JSON
+This allows you to add a user to the database. It takes a JSON
 object containing a question and a collection of answers in the
 form of choices.
 
 + Request (application/json)
 
         {
-            "question": "Favourite programming language?",
-            "choices": [
-                "Swift",
-                "Python",
-                "Objective-C",
-                "Ruby"
-            ]
+            "username": "string",
+            "email": "string",
+            
         }
 
 + Response 201 (application/json)
