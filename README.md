@@ -10,8 +10,7 @@
 <a href="https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mogakamo/wase-ify&amp;utm_campaign=Badge_Grade" target="_blank">
     <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/9523e7c1797e486b842bd63bc7bc540f">
   </a>
-  <img src="https://github.com/<username>/<repository-name>/blob/master/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
+  <img src="https://github.com/Mogakamo/wase-ify/blob/master/images/stat.svg" alt="Alternative Text"/>
  </p>
 
 
