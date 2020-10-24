@@ -12,3 +12,5 @@
   </a>
  </p>
 
+- name: WakaTime Stat Update Action
+  uses: avinal/Profile-Readme-WakaTime@1.2
